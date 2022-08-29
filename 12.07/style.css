@@ -1,0 +1,36 @@
+
+        body {
+            background-color: aquamarine;
+        }
+
+        h1 {
+            color: darkred;
+            font-size: 50px;
+            font-weight: 800;
+            text-align: center;
+        }
+
+        .lime {
+            color: rgb(90, 166, 14);
+            font-size: 70px;
+        }
+
+        #limebig {
+            font-size: 100px;
+        }
+        .box{
+            width: 200px;
+            height: 200px;
+            background-color: rgb(134, 3, 199);
+            display: inline-block;
+            margin-right: 50px;
+            box-sizing: border-box;
+            padding-left: 50px;
+        }
+        .box2{
+            width: 100px;
+            height: 100px;
+            background-color: rgb(0, 0, 0);
+        }
+
+ 

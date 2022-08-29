@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border: 6px solid black;
+    margin-top: 200px;
+
+    /*margin-top: 50%;
+    margin-left: 50%;
+    border-top: 6px solid crimson;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    */
+;
+}
